@@ -7,7 +7,7 @@
     "512": "/img/icon-512.png"
   },
   "developer": {
-    "soy yo": "Your name or organization",
+    "name": "Hackem",
     "url": "http://google.com"
   },
   "default_locale": "en"
